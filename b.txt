@@ -1,1 +1,11 @@
 第二个文件
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+先修改
+本地修改
+=======
+
+>>>>>>> Stashed changes
+=======
+
+>>>>>>> Stashed changes
